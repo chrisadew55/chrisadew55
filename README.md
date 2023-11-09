@@ -1,7 +1,7 @@
-# Hey! I'm Christiana 👋 a Data Analyst based in London
+# Hey! Welcome to my page, I'm Christiana 👋
 
 ### 💫 About Me:
-🔭 I’m currently learning all about SQL and Python<br>💬 Brainstorm with me over tech, social media algorithms, and astrology<br>📫 Feel free to ping me on [LinkedIn](https://linkedin.com/in/chrisadew)!<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I'm also studying for the CAPISAR exam
+🔭 I’m currently learning all about SQL, Python and Data Analysis<br>💬 Brainstorm with me over tech, social media algorithms, and astrology<br>📫 Feel free to ping me on [LinkedIn](https://linkedin.com/in/chrisadew)!<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I'm also studying for the CAPISAR exam
 
 
 ### 💻 Tech Stack:

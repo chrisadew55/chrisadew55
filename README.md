@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Brainstorm with me over tech, social media algorithms, and astrology
 - 📫 Feel free to ping me on LinkedIn!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also studying for the CAPISAR exam
+- ⚡ Fun fact: I'm also studying for the CAPISAR exam :)
 -->

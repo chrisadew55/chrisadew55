@@ -1,7 +1,7 @@
-# Hey! 👋🏾 Welcome to my page  
+# Hey! 👋🏾 Welcome to my page 🫶🏾
 
 ### 💫 About Me:
-🔭 I’m currently learning about all things Data Analytics<br>💬 Brainstorm with me over tech, social media algorithms, and astrology<br>📩 Feel free to ping me on [LinkedIn](https://linkedin.com/in/chrisadew)!<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I write about astrology things [here](https://chrisadew.com)
+🔭 I’m currently learning about all things Data Analytics<br>💬 Brainstorm with me over tech, social media algorithms, and astrology<br>📩 Feel free to ping me on [LinkedIn](https://linkedin.com/in/chrisadew)<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I write about astrology things [here](https://chrisadew.com)
 
 
 ### 💻 Tech Stack:

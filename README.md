@@ -1,7 +1,7 @@
 # Hey! 👋🏾 Welcome to my page 
 
 ### 💫 About Me:
-🔭 I’m a Data Analyst documenting my SQL and Python journey<br>💬 Brainstorm with me over tech, social media algorithms, and astrology<br>📩 Let's connect on [LinkedIn](https://linkedin.com/in/chrisadew)<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I write about and analyze astrology things [here](https://chrisadew.com)
+🔭 I’m a Data Analyst documenting my SQL and Python journey<br>💬 Brainstorm with me over tech, social media algorithms, and astrology<br>📩 Let's connect on [LinkedIn](https://linkedin.com/in/chrisadew)<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I write about astrology things [here](https://chrisadew.com)
 
 
 ### 💻 Tech Stack:

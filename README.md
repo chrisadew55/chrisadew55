@@ -7,7 +7,7 @@
    <a href="https://medium.com/@chrisadew"><img alt="Medium" src="https://img.shields.io/badge/-@chrisadew-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@chrisadew"></a>
 </p>
 
-<h3 align="left">  I'm an industrial engineer who is interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3>
+<h3 align="left">  I'm a Data Analyst who's interested in random statistical info and stunning Data Viz. Astrologer, storyteller and Internet citizen. </h3>
 
 ---
 

@@ -13,8 +13,6 @@
 
 ---
 
-<img align="right" height="150" width="210" src="<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>">
-
 - 🔭 **I’m currently working on:** My portfolio
 - 🌱 **I’m currently learning:** data engineering
 - 👯 **I’m looking to collaborate on:** data analytics projects

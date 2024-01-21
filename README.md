@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hey there, I'm Christiana 👋 </h1>
+<h1 align="left"> Hey there, I'm Christiana 👋🏾 </h1>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/chrisadew/"><img alt="LinkedIn" src="https://img.shields.io/badge/-chrisadew-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisadew/"></a>

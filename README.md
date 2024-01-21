@@ -4,7 +4,6 @@
 <p align="left">
    <a href="https://www.linkedin.com/in/chrisadew/"><img alt="LinkedIn" src="https://img.shields.io/badge/-chrisadew-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisadew/"></a>
    <a href="mailto:inbox.chrisadew@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-inbox.chrisadew@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inbox.chrisadew@gmail.com"></a>
-   <a href="https://medium.com/@chrisadew"><img alt="Medium" src="https://img.shields.io/badge/-@chrisadew-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@chrisadew"></a>
 </p>
 
 <h3 align="left">  I'm a Data Analyst who's interested in random statistical info and stunning Data Viz. Astrologer, storyteller and Internet citizen. </h3>

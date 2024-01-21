@@ -29,7 +29,7 @@
 ---
 
 
-[[![My Skills](https://skillicons.dev/icons?i=postgres,py,vscode)](https://skillicons.dev)](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)
+(https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

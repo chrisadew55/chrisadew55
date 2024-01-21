@@ -28,6 +28,7 @@
 
 ---
 
+<img align="left" height="150" width="210" src="alteryx.png">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

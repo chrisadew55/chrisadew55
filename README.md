@@ -16,12 +16,12 @@
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
 <img align="right" height="150" width="210" src="data.gif">
 
-- 🔭 **I’m currently working on:** ML models
+- 🔭 **I’m currently working on:** My portfolio
 - 🌱 **I’m currently learning:** data engineering
-- 👯 **I’m looking to collaborate on:** data science projects/competitions
-- 💬 **Ask me about:** data science, memes, kdramas, Bad Bunny
-- ⚡ **Hobbies:** books, internet, music, series, pet my cat
-- 😄 **Pronouns:** he/him
+- 👯 **I’m looking to collaborate on:** data analytics projects
+- 💬 **Ask me about:** data science, memes, pop culture, Astrology
+- ⚡ **Hobbies:** reading, movies, music, persona/solar return charts
+- 😄 **Pronouns:** she/her
 
 ---
 

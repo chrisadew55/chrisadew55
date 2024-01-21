@@ -6,7 +6,7 @@
    <a href="mailto:inbox.chrisadew@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-inbox.chrisadew@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inbox.chrisadew@gmail.com"></a>
 </p>
 
-<h3 align="left">  I'm a Data Analyst who's interested in random statistical info and stunning, effective Data Viz. Astrologer, storyteller and Internet citizen. </h3>
+<h3 align="left">  I'm a Data Analyst who's interested in random statistical info and stunning, effective Data Viz. Astrologer, storyteller and digital citizen. </h3>
 
 ---
 

@@ -13,6 +13,10 @@
 
 ---
 
+<!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
+<img align="right" height="150" width="210" src="data toy story.gif">
+
+
 - 🔭 **I’m currently working on:** My portfolio
 - 🌱 **I’m currently learning:** data engineering
 - 👯 **I’m looking to collaborate on:** data analytics projects

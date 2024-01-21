@@ -16,9 +16,9 @@
 
 
 - 🔭 **I’m currently working on:** My portfolio
-- 🌱 **I’m currently learning:** data engineering
+- 🌱 **I’m currently learning:** Tableau
 - 👯 **I’m looking to collaborate on:** data analytics projects
-- 💬 **Ask me about:** data science, memes, pop culture, Astrology
+- 💬 **Ask me about:** data, memes, pop culture, Notion databases, Astrology
 - ⚡ **Hobbies:** reading, movies, music, persona/solar return charts
 - 😄 **Pronouns:** she/her
 

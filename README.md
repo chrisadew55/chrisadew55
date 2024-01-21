@@ -1,11 +1,32 @@
-# Hey! 👋🏾 Welcome to my page 
 
-### 💫 About Me:
-🔭 I’m a Data Analyst documenting my SQL and Python journey<br>💬 Brainstorm with me over tech, social media algorithms, and astrology<br>📩 Let's connect on [LinkedIn](https://linkedin.com/in/chrisadew)<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I write about astrology things [here](https://chrisadew.com)
+<h1 align="left"> Hey there, I'm Dewith 👋 </h1>
 
+<p align="left">
+   <a href="https://dewith.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
+   <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
+   <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
+   <a href="mailto:dewithmiramon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
+   <a href="https://medium.com/@dewith"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith"></a>
+</p>
 
-### 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<h3 align="left">  I'm an industrial engineer who is interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3>
+
+---
+
+<!-- credits for gif https://gph.is/g/ZWg5jr7 -->
+<img align="right" height="150" width="210" src="data.gif">
+
+- 🔭 **I’m currently working on:** ML models
+- 🌱 **I’m currently learning:** data engineering
+- 👯 **I’m looking to collaborate on:** data science projects/competitions
+- 💬 **Ask me about:** data science, memes, kdramas, Bad Bunny
+- ⚡ **Hobbies:** books, internet, music, series, pet my cat
+- 😄 **Pronouns:** he/him
+
+---
+
+<a href="https://dewith.co/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+
 
 ---
 

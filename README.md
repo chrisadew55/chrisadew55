@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/chrisadew/"><img alt="LinkedIn" src="https://img.shields.io/badge/-chrisadew-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisadew/"></a>
    <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
    <a href="mailto:inbox.chrisadew@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-inbox.chrisadew@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inbox.chrisadew@gmail.com"></a>
-   <a href="https://medium.com/@dewith"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith"></a>
+   <a href="https://medium.com/@chrisadew"><img alt="Medium" src="https://img.shields.io/badge/-@chrisadew-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@chrisadew"></a>
 </p>
 
 <h3 align="left">  I'm an industrial engineer who is interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3>

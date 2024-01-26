@@ -23,7 +23,7 @@
 
 ---
 
-Here are some of the projects I've been working on 😊
+[Here](https://github.com/chrisadew55/projects) are some of the projects I've been working on 😊
 
 ---
 
